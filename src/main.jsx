@@ -1,1 +1,1 @@
-import './research-agent.jsx';
+import './ai-research-agent.jsx';
